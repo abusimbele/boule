@@ -2,7 +2,7 @@
 
 
 //number of tiles tessellation
-$fn=100;
+$fn=200;
 
 //Constants(Parameter) you define in cm:
 
@@ -25,6 +25,6 @@ difference(){
  sphere_inner();
     
  //To look into the shell uncomment the following line 
- cube(10);  
+ //cube(10);  
 }
     
