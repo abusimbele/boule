@@ -2,7 +2,7 @@
 
 
 //number of tiles tessellation
-$fn=200;
+$fn=300;
 
 //Constants(Parameter) you define in cm:
 
@@ -26,5 +26,6 @@ difference(){
     
  //To look into the shell uncomment the following line 
  //cube(10);  
+    
 }
     
